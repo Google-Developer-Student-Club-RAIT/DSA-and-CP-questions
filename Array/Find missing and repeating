@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#
+
+Refer to the link given above.
+
+#Complete the Function:
+int *findTwoElement(int *arr, int n) 
+{
+    // code here
+}

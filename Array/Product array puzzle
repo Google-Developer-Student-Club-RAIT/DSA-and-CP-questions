@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1#
+
+Refer to the link given above.
+
+#Complete the Function:
+vector<long long int> productExceptSelf(vector<long long int>& nums, int n) 
+{  
+    //code here        
+}

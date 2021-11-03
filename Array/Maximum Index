@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1
+
+Refer to the link given above.
+
+#Complete the Function:
+int maxIndexDiff(int A[], int N) 
+{ 
+    // Your code here
+}

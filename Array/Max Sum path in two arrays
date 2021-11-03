@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1
+
+Refer to the link given above.
+
+#Complete the Function:
+int max_path_sum(int A[], int B[], int l1, int l2)
+{
+    //Your code here
+}

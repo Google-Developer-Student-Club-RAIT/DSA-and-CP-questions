@@ -1,0 +1,10 @@
+https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1
+
+Refer to the link given above.
+You will get to learn moore's Algorithm here.(Try to solve using this Algorithm)
+
+#Complete the Function:
+int majorityElement(int a[], int size)
+{
+    // your code here
+}

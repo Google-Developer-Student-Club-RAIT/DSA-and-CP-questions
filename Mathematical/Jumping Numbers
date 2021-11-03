@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/jumping-numbers3805/1#
+
+Refer to the link given above.
+
+#Complete the Function:
+long long jumpingNums(long long X) 
+{
+    // code here
+}

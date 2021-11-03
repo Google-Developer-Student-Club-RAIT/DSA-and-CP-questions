@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/print-the-kth-digit3520/1
+
+Refer to the link given above.
+
+#Complete the Function:
+int kthDigit(int A,int B,int K)
+{
+    // code here
+}

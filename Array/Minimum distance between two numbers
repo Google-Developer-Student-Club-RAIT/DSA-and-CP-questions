@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1#
+
+Refer to the link given above.
+
+#Complete the Function:
+int minDist(int a[], int n, int x, int y) 
+{
+    // code here
+}

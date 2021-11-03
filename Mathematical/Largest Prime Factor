@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/largest-prime-factor2601/1
+
+Refer to the link given above.
+
+#Complete the Function:
+long long int largestPrimeFactor(int N)
+{
+    // code here
+}

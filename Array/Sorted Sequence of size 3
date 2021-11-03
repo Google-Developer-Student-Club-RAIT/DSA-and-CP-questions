@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1#
+
+Refer to the link given above.
+
+#Complete the Function:
+vector<int> find3Numbers(vector<int> arr, int N) 
+{
+    // Your code here
+}

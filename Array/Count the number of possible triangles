@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1
+
+Refer to the link given above.
+
+#Complete the Function:
+int findNumberOfTriangles(int arr[], int n)
+{
+    // code here
+}

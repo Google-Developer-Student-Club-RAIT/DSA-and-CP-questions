@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/closest-number5728/1
+
+Refer to the link given above.
+
+#Complete the Function:
+int closestNumber(int N , int M) 
+{
+    // code here
+}
